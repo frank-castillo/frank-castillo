@@ -1,6 +1,6 @@
-# Hello there 👋
+# Hello there! 👋
 
-## My name is Francisco, and welcome to my GitHub profile!
+## My name is Frank. Welcome to my GitHub profile!
 
 ### ***I am a game programmer and sound designer with experience working on multiple game projects.***
 
